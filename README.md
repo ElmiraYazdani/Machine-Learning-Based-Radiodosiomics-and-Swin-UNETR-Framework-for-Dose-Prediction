@@ -14,13 +14,13 @@ See [`radiodosiomics_ML.ipynb`](./radiodosiomics_ML.ipynb) for the full pipeline
 
 
 
-# Install Dependencies
+## Install Dependencies
 Install dependencies using:
 ```bash
 pip install -r requirements.txt
 ```
-# Citation
+## Citation
 
 
-# Acknowledgement
+## Acknowledgement
 Models Implantation and SSL Pipeline are based on [MONAI](https://github.com/Project-MONAI/MONAI) and [This](https://github.com/Project-MONAI/research-contributions/tree/main/SwinUNETR) repository.
