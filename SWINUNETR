@@ -1,10 +1,1 @@
-SWINUNETR/optimizers/__init__.py
-SWINUNETR/optimizers/lr_scheduler.py
-SWINUNETR/utils/__init__.py
-SWINUNETR/utils/data_utils.py
-SWINUNETR/utils/utils.py
-SWINUNETR/logger.py
-SWINUNETR/trainer.py
-SWINUNETR/main.py
-SWINUNETR/test.py
 
