@@ -1,6 +1,6 @@
 # Machine-Learning-Based-Radiodosiomics-and-Swin-UNETR-Framework-for-Dose-Prediction
 This repository presents a radiodosiomics framework for personalized [¹⁷⁷Lu]Lu-PSMA-617 RLT in patients with metastatic castration-resistant prostate cancer (mCRPC). 
-It includes feature selection and ML models using clinical biomarkers and radiomic and dosiomic (radiodosiomic) features extracted from pretreatment [68Ga]Ga-PSMA-11 PET/CT, plus Swin UNETR model with SSL to predict Monte Carlo–based dose rate maps.
+It includes feature selection and ML models using clinical biomarkers and radiomic and dosiomic (radiodosiomic) features extracted from pretreatment [⁶⁸Ga]Ga-PSMA-11 PET/CT, plus Swin UNETR model with SSL to predict Monte Carlo–based dose rate maps.
 
 ## 🤖 Machine Learning Pipeline 🤖
 See [`radiodosiomics_ML.ipynb`](./radiodosiomics_ML.ipynb) for the full pipeline including:
