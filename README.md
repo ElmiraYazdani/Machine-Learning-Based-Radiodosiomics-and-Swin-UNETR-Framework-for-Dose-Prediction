@@ -46,7 +46,7 @@ Install dependencies using:
 pip install -r requirements.txt
 ```
 ## 📚 Citation
-### References
+### If you find our work useful, please cite the following paper:
 Yazdani E, Neizehbaz A, Karamzade‐Ziarati N, Emami F, Vosoughi H, Asadi M, Mahmoudi A, Sadeghi M, Kheradpisheh SR, Geramifar P.  
 *Transforming [177Lu] Lu‐PSMA‐617 treatment planning: Machine learning‐based radiodosiomics and swin UNETR using pretherapy PSMA positron emission tomography/computed tomography (PET/CT).*  
 Medical Physics. 2025 Oct;52(10):e70030. https://doi.org/10.1002/mp.70030
